@@ -1,0 +1,513 @@
+Project Name: sim_6lay
+params_net=
+{'CalInGPU': True, 'layers': 6, 'coef_L': 0.4, 'coef_S': 1.8, 'kernel': [(5, 1), (5, 1), (5, 1), (3, 1), (3, 1), (3, 1)]}
+
+Loading phase...
+----------------
+Finished loading.
+
+Configuring network...
+Training the model over 2400 samples, with learning rate 0.002000
+
+
+2018-10-15 15:10:29
+Loading and calculating training batches...
+Training time is 3976.405927
+Loading and calculating validation batches...
+Test time is 621.234175
+Epoch [1/50], Lossmean:1.73394e-02, Validation lossmean:5.80810e-03
+exp_L: [0.204 0.201 0.204 0.203 0.203 0.205]
+exp_S: [0.921 0.889 0.909 0.885 0.888 0.925]
+saved at [epoch1/50]
+
+2018-10-15 16:27:06
+Loading and calculating training batches...
+Training time is 4003.428744
+Loading and calculating validation batches...
+Test time is 546.411316
+Epoch [2/50], Lossmean:5.07543e-03, Validation lossmean:4.39425e-03
+exp_L: [0.204 0.201 0.205 0.203 0.204 0.207]
+exp_S: [0.925 0.89  0.902 0.883 0.871 0.933]
+saved at [epoch2/50]
+
+2018-10-15 17:42:56
+Loading and calculating training batches...
+Training time is 3371.028661
+Loading and calculating validation batches...
+Test time is 362.405252
+Epoch [3/50], Lossmean:3.94657e-03, Validation lossmean:3.52504e-03
+exp_L: [0.204 0.201 0.205 0.202 0.205 0.209]
+exp_S: [0.927 0.891 0.905 0.881 0.858 0.937]
+saved at [epoch3/50]
+
+2018-10-15 18:45:10
+Loading and calculating training batches...
+Training time is 3076.131620
+Loading and calculating validation batches...
+Test time is 368.866809
+Epoch [4/50], Lossmean:3.17990e-03, Validation lossmean:2.89532e-03
+exp_L: [0.204 0.201 0.206 0.202 0.205 0.211]
+exp_S: [0.929 0.893 0.91  0.877 0.846 0.938]
+saved at [epoch4/50]
+
+2018-10-15 19:42:35
+Loading and calculating training batches...
+Training time is 3070.365494
+Loading and calculating validation batches...
+Test time is 444.917689
+Epoch [5/50], Lossmean:2.66851e-03, Validation lossmean:2.54350e-03
+exp_L: [0.204 0.201 0.206 0.201 0.205 0.212]
+exp_S: [0.928 0.894 0.911 0.872 0.833 0.939]
+saved at [epoch5/50]
+
+2018-10-15 20:41:10
+Loading and calculating training batches...
+Training time is 3103.335864
+Loading and calculating validation batches...
+Test time is 353.350824
+Epoch [6/50], Lossmean:2.36374e-03, Validation lossmean:2.28806e-03
+exp_L: [0.204 0.201 0.206 0.2   0.205 0.214]
+exp_S: [0.928 0.894 0.91  0.868 0.819 0.939]
+saved at [epoch6/50]
+
+2018-10-15 21:38:47
+Loading and calculating training batches...
+Training time is 3063.501570
+Loading and calculating validation batches...
+Test time is 365.209130
+Epoch [7/50], Lossmean:2.15320e-03, Validation lossmean:2.11962e-03
+exp_L: [0.204 0.201 0.206 0.198 0.206 0.215]
+exp_S: [0.928 0.895 0.91  0.863 0.808 0.939]
+saved at [epoch7/50]
+
+2018-10-15 22:35:55
+Loading and calculating training batches...
+Training time is 3063.729436
+Loading and calculating validation batches...
+Test time is 375.221653
+Epoch [8/50], Lossmean:1.99534e-03, Validation lossmean:1.97168e-03
+exp_L: [0.204 0.201 0.206 0.196 0.206 0.217]
+exp_S: [0.928 0.896 0.913 0.858 0.798 0.938]
+saved at [epoch8/50]
+
+2018-10-15 23:33:14
+Loading and calculating training batches...
+Training time is 3077.684981
+Loading and calculating validation batches...
+Test time is 381.427749
+Epoch [9/50], Lossmean:1.85677e-03, Validation lossmean:1.83509e-03
+exp_L: [0.205 0.2   0.206 0.194 0.206 0.218]
+exp_S: [0.927 0.897 0.917 0.854 0.791 0.938]
+saved at [epoch9/50]
+
+2018-10-16 00:30:53
+Loading and calculating training batches...
+Training time is 3060.132958
+Loading and calculating validation batches...
+Test time is 361.419366
+Epoch [10/50], Lossmean:1.73281e-03, Validation lossmean:1.74064e-03
+exp_L: [0.205 0.2   0.207 0.192 0.206 0.219]
+exp_S: [0.925 0.899 0.921 0.85  0.786 0.937]
+saved at [epoch10/50]
+
+2018-10-16 01:27:55
+Loading and calculating training batches...
+Training time is 3065.009769
+Loading and calculating validation batches...
+Test time is 360.170250
+Epoch [11/50], Lossmean:1.61989e-03, Validation lossmean:1.61521e-03
+exp_L: [0.205 0.2   0.207 0.19  0.206 0.22 ]
+exp_S: [0.922 0.9   0.925 0.846 0.782 0.936]
+saved at [epoch11/50]
+
+2018-10-16 02:25:00
+Loading and calculating training batches...
+Training time is 3079.074098
+Loading and calculating validation batches...
+Test time is 375.887114
+Epoch [12/50], Lossmean:1.52513e-03, Validation lossmean:1.51211e-03
+exp_L: [0.206 0.201 0.207 0.188 0.206 0.22 ]
+exp_S: [0.919 0.903 0.927 0.842 0.779 0.935]
+saved at [epoch12/50]
+
+2018-10-16 03:22:35
+Loading and calculating training batches...
+Training time is 3091.721303
+Loading and calculating validation batches...
+Test time is 359.329517
+Epoch [13/50], Lossmean:1.43474e-03, Validation lossmean:1.43930e-03
+exp_L: [0.206 0.201 0.208 0.186 0.206 0.221]
+exp_S: [0.917 0.906 0.929 0.839 0.777 0.934]
+saved at [epoch13/50]
+
+2018-10-16 04:20:06
+Loading and calculating training batches...
+Training time is 3078.237190
+Loading and calculating validation batches...
+Test time is 405.146842
+Epoch [14/50], Lossmean:1.35835e-03, Validation lossmean:1.35517e-03
+exp_L: [0.206 0.202 0.208 0.185 0.206 0.221]
+exp_S: [0.915 0.909 0.93  0.836 0.776 0.932]
+saved at [epoch14/50]
+
+2018-10-16 05:18:10
+Loading and calculating training batches...
+Training time is 3068.217366
+Loading and calculating validation batches...
+Test time is 364.219393
+Epoch [15/50], Lossmean:1.29245e-03, Validation lossmean:1.29088e-03
+exp_L: [0.206 0.202 0.208 0.183 0.206 0.222]
+exp_S: [0.913 0.913 0.93  0.834 0.775 0.93 ]
+saved at [epoch15/50]
+
+2018-10-16 06:15:22
+Loading and calculating training batches...
+Training time is 3090.409766
+Loading and calculating validation batches...
+Test time is 375.712966
+Epoch [16/50], Lossmean:1.24188e-03, Validation lossmean:1.24183e-03
+exp_L: [0.207 0.203 0.208 0.182 0.207 0.222]
+exp_S: [0.911 0.916 0.928 0.832 0.775 0.928]
+saved at [epoch16/50]
+
+2018-10-16 07:13:08
+Loading and calculating training batches...
+Training time is 3088.521999
+Loading and calculating validation batches...
+Test time is 360.747342
+Epoch [17/50], Lossmean:1.19874e-03, Validation lossmean:1.20932e-03
+exp_L: [0.207 0.204 0.208 0.18  0.207 0.223]
+exp_S: [0.911 0.92  0.927 0.829 0.775 0.926]
+saved at [epoch17/50]
+
+2018-10-16 08:10:38
+Loading and calculating training batches...
+Training time is 2113.793663
+Loading and calculating validation batches...
+Test time is 120.770176
+Epoch [18/50], Lossmean:1.15718e-03, Validation lossmean:1.19785e-03
+exp_L: [0.207 0.204 0.208 0.179 0.207 0.223]
+exp_S: [0.912 0.924 0.926 0.827 0.774 0.923]
+saved at [epoch18/50]
+
+2018-10-16 08:47:52
+Loading and calculating training batches...
+Training time is 1734.507395
+Loading and calculating validation batches...
+Test time is 40.638531
+Epoch [19/50], Lossmean:1.12454e-03, Validation lossmean:1.13616e-03
+exp_L: [0.207 0.205 0.208 0.178 0.207 0.223]
+exp_S: [0.912 0.927 0.926 0.826 0.774 0.921]
+saved at [epoch19/50]
+
+2018-10-16 09:17:27
+Loading and calculating training batches...
+Training time is 1079.162737
+Loading and calculating validation batches...
+Test time is 42.094491
+Epoch [20/50], Lossmean:1.09482e-03, Validation lossmean:1.10633e-03
+exp_L: [0.208 0.205 0.208 0.177 0.207 0.224]
+exp_S: [0.912 0.93  0.925 0.824 0.773 0.918]
+saved at [epoch20/50]
+
+2018-10-16 09:36:09
+Loading and calculating training batches...
+Training time is 1911.350246
+Loading and calculating validation batches...
+Test time is 677.642577
+Epoch [21/50], Lossmean:1.07169e-03, Validation lossmean:1.07994e-03
+exp_L: [0.208 0.205 0.208 0.176 0.207 0.224]
+exp_S: [0.913 0.934 0.925 0.822 0.772 0.915]
+saved at [epoch21/50]
+
+2018-10-16 10:19:18
+Loading and calculating training batches...
+Training time is 2574.528796
+Loading and calculating validation batches...
+Test time is 580.228953
+Epoch [22/50], Lossmean:1.04753e-03, Validation lossmean:1.06492e-03
+exp_L: [0.209 0.205 0.208 0.175 0.208 0.224]
+exp_S: [0.913 0.938 0.925 0.821 0.771 0.912]
+saved at [epoch22/50]
+
+2018-10-16 11:11:52
+Loading and calculating training batches...
+Training time is 1223.278345
+Loading and calculating validation batches...
+Test time is 38.059407
+Epoch [23/50], Lossmean:1.03350e-03, Validation lossmean:1.06454e-03
+exp_L: [0.209 0.205 0.208 0.174 0.208 0.225]
+exp_S: [0.915 0.943 0.925 0.82  0.77  0.908]
+saved at [epoch23/50]
+
+2018-10-16 11:32:54
+Loading and calculating training batches...
+Training time is 1070.949483
+Loading and calculating validation batches...
+Test time is 38.937985
+Epoch [24/50], Lossmean:1.01513e-03, Validation lossmean:1.01416e-03
+exp_L: [0.21  0.206 0.208 0.173 0.208 0.225]
+exp_S: [0.916 0.948 0.925 0.819 0.769 0.905]
+saved at [epoch24/50]
+
+2018-10-16 11:51:24
+Loading and calculating training batches...
+Training time is 1076.684241
+Loading and calculating validation batches...
+Test time is 41.863919
+Epoch [25/50], Lossmean:9.95977e-04, Validation lossmean:1.01992e-03
+exp_L: [0.211 0.206 0.207 0.172 0.208 0.225]
+exp_S: [0.917 0.954 0.927 0.818 0.768 0.901]
+saved at [epoch25/50]
+
+2018-10-16 12:10:02
+Loading and calculating training batches...
+Training time is 1328.089726
+Loading and calculating validation batches...
+Test time is 348.832396
+Epoch [26/50], Lossmean:9.89947e-04, Validation lossmean:9.88689e-04
+exp_L: [0.212 0.206 0.207 0.171 0.209 0.226]
+exp_S: [0.919 0.96  0.93  0.817 0.768 0.897]
+saved at [epoch26/50]
+
+2018-10-16 12:37:59
+Loading and calculating training batches...
+Training time is 3354.434108
+Loading and calculating validation batches...
+Test time is 347.587927
+Epoch [27/50], Lossmean:9.60512e-04, Validation lossmean:9.61233e-04
+exp_L: [0.213 0.205 0.207 0.17  0.209 0.226]
+exp_S: [0.922 0.966 0.933 0.816 0.767 0.893]
+saved at [epoch27/50]
+
+2018-10-16 13:39:41
+Loading and calculating training batches...
+Training time is 3276.599066
+Loading and calculating validation batches...
+Test time is 345.960019
+Epoch [28/50], Lossmean:9.47913e-04, Validation lossmean:9.51523e-04
+exp_L: [0.214 0.205 0.207 0.169 0.209 0.226]
+exp_S: [0.924 0.973 0.937 0.815 0.766 0.889]
+saved at [epoch28/50]
+
+2018-10-16 14:40:04
+Loading and calculating training batches...
+Training time is 3289.099601
+Loading and calculating validation batches...
+Test time is 348.461257
+Epoch [29/50], Lossmean:9.25128e-04, Validation lossmean:9.23093e-04
+exp_L: [0.215 0.205 0.207 0.169 0.209 0.226]
+exp_S: [0.926 0.978 0.942 0.815 0.764 0.885]
+saved at [epoch29/50]
+
+2018-10-16 15:40:41
+Loading and calculating training batches...
+Training time is 3255.051641
+Loading and calculating validation batches...
+Test time is 351.473125
+Epoch [30/50], Lossmean:9.10025e-04, Validation lossmean:9.21670e-04
+exp_L: [0.215 0.205 0.207 0.168 0.209 0.227]
+exp_S: [0.928 0.984 0.947 0.814 0.762 0.88 ]
+saved at [epoch30/50]
+
+2018-10-16 16:40:48
+Loading and calculating training batches...
+Training time is 3353.822069
+Loading and calculating validation batches...
+Test time is 347.255220
+Epoch [31/50], Lossmean:9.03255e-04, Validation lossmean:9.23189e-04
+exp_L: [0.216 0.205 0.207 0.167 0.21  0.227]
+exp_S: [0.93  0.99  0.954 0.813 0.76  0.876]
+saved at [epoch31/50]
+
+2018-10-16 17:42:29
+Loading and calculating training batches...
+Training time is 3275.827455
+Loading and calculating validation batches...
+Test time is 371.786907
+Epoch [32/50], Lossmean:8.97361e-04, Validation lossmean:8.93676e-04
+exp_L: [0.217 0.206 0.207 0.167 0.21  0.227]
+exp_S: [0.933 0.997 0.961 0.813 0.758 0.871]
+saved at [epoch32/50]
+
+2018-10-16 18:43:16
+Loading and calculating training batches...
+Training time is 3261.501133
+Loading and calculating validation batches...
+Test time is 351.106331
+Epoch [33/50], Lossmean:8.67878e-04, Validation lossmean:8.70845e-04
+exp_L: [0.218 0.205 0.207 0.166 0.21  0.227]
+exp_S: [0.934 1.002 0.967 0.812 0.755 0.866]
+saved at [epoch33/50]
+
+2018-10-16 19:43:29
+Loading and calculating training batches...
+Training time is 3262.852499
+Loading and calculating validation batches...
+Test time is 354.987572
+Epoch [34/50], Lossmean:8.57099e-04, Validation lossmean:8.57490e-04
+exp_L: [0.218 0.205 0.207 0.166 0.21  0.228]
+exp_S: [0.935 1.006 0.973 0.811 0.751 0.861]
+saved at [epoch34/50]
+
+2018-10-16 20:43:47
+Loading and calculating training batches...
+Training time is 3323.932466
+Loading and calculating validation batches...
+Test time is 347.098610
+Epoch [35/50], Lossmean:8.34227e-04, Validation lossmean:8.35566e-04
+exp_L: [0.218 0.205 0.207 0.165 0.21  0.228]
+exp_S: [0.933 1.009 0.977 0.81  0.747 0.855]
+saved at [epoch35/50]
+
+2018-10-16 21:44:58
+Loading and calculating training batches...
+Training time is 3274.644921
+Loading and calculating validation batches...
+Test time is 345.845604
+Epoch [36/50], Lossmean:8.41124e-04, Validation lossmean:8.31334e-04
+exp_L: [0.218 0.205 0.207 0.165 0.211 0.228]
+exp_S: [0.931 1.013 0.983 0.809 0.743 0.85 ]
+saved at [epoch36/50]
+
+2018-10-16 22:45:19
+Loading and calculating training batches...
+Training time is 3241.285915
+Loading and calculating validation batches...
+Test time is 347.672933
+Epoch [37/50], Lossmean:8.10887e-04, Validation lossmean:7.80485e-04
+exp_L: [0.218 0.205 0.207 0.164 0.211 0.229]
+exp_S: [0.93  1.016 0.987 0.808 0.739 0.844]
+saved at [epoch37/50]
+
+2018-10-16 23:45:07
+Loading and calculating training batches...
+Training time is 3274.378697
+Loading and calculating validation batches...
+Test time is 348.053396
+Epoch [38/50], Lossmean:8.01310e-04, Validation lossmean:8.37434e-04
+exp_L: [0.218 0.205 0.207 0.164 0.211 0.229]
+exp_S: [0.93  1.018 0.99  0.808 0.734 0.838]
+saved at [epoch38/50]
+
+2018-10-17 00:45:30
+Loading and calculating training batches...
+Training time is 3318.365659
+Loading and calculating validation batches...
+Test time is 350.384197
+Epoch [39/50], Lossmean:8.19205e-04, Validation lossmean:7.63625e-04
+exp_L: [0.22  0.205 0.207 0.164 0.211 0.229]
+exp_S: [0.931 1.023 0.996 0.807 0.731 0.832]
+saved at [epoch39/50]
+
+2018-10-17 01:46:39
+Loading and calculating training batches...
+Training time is 3272.321734
+Loading and calculating validation batches...
+Test time is 348.927250
+Epoch [40/50], Lossmean:7.34220e-04, Validation lossmean:7.32611e-04
+exp_L: [0.219 0.205 0.207 0.164 0.212 0.23 ]
+exp_S: [0.927 1.022 0.995 0.807 0.723 0.825]
+saved at [epoch40/50]
+
+2018-10-17 02:47:00
+Loading and calculating training batches...
+Training time is 3263.237530
+Loading and calculating validation batches...
+Test time is 366.085344
+Epoch [41/50], Lossmean:7.21746e-04, Validation lossmean:7.25081e-04
+exp_L: [0.218 0.205 0.207 0.163 0.212 0.23 ]
+exp_S: [0.924 1.019 0.994 0.806 0.715 0.819]
+saved at [epoch41/50]
+
+2018-10-17 03:47:29
+Loading and calculating training batches...
+Training time is 3265.043873
+Loading and calculating validation batches...
+Test time is 351.183899
+Epoch [42/50], Lossmean:7.21935e-04, Validation lossmean:7.20564e-04
+exp_L: [0.217 0.205 0.206 0.163 0.212 0.23 ]
+exp_S: [0.92  1.016 0.994 0.805 0.709 0.812]
+saved at [epoch42/50]
+
+2018-10-17 04:47:46
+Loading and calculating training batches...
+Training time is 3355.569561
+Loading and calculating validation batches...
+Test time is 353.916427
+Epoch [43/50], Lossmean:7.02124e-04, Validation lossmean:6.90226e-04
+exp_L: [0.217 0.205 0.206 0.163 0.212 0.231]
+exp_S: [0.917 1.013 0.993 0.804 0.702 0.805]
+saved at [epoch43/50]
+
+2018-10-17 05:49:35
+Loading and calculating training batches...
+Training time is 3272.070159
+Loading and calculating validation batches...
+Test time is 349.658995
+Epoch [44/50], Lossmean:6.95703e-04, Validation lossmean:6.88101e-04
+exp_L: [0.216 0.205 0.206 0.163 0.212 0.231]
+exp_S: [0.913 1.009 0.993 0.804 0.695 0.798]
+saved at [epoch44/50]
+
+2018-10-17 06:49:57
+Loading and calculating training batches...
+Training time is 3298.406857
+Loading and calculating validation batches...
+Test time is 349.296385
+Epoch [45/50], Lossmean:6.91225e-04, Validation lossmean:6.77447e-04
+exp_L: [0.216 0.205 0.206 0.162 0.213 0.231]
+exp_S: [0.909 1.006 0.992 0.803 0.689 0.79 ]
+saved at [epoch45/50]
+
+2018-10-17 07:50:45
+Loading and calculating training batches...
+Training time is 3277.046472
+Loading and calculating validation batches...
+Test time is 348.943417
+Epoch [46/50], Lossmean:6.86434e-04, Validation lossmean:6.77084e-04
+exp_L: [0.215 0.205 0.206 0.162 0.213 0.231]
+exp_S: [0.905 1.002 0.991 0.803 0.684 0.783]
+saved at [epoch46/50]
+
+2018-10-17 08:51:11
+Loading and calculating training batches...
+Training time is 3347.412601
+Loading and calculating validation batches...
+Test time is 352.466618
+Epoch [47/50], Lossmean:6.81481e-04, Validation lossmean:6.69108e-04
+exp_L: [0.215 0.205 0.205 0.162 0.213 0.232]
+exp_S: [0.902 1.    0.991 0.802 0.678 0.775]
+saved at [epoch47/50]
+
+2018-10-17 09:52:50
+Loading and calculating training batches...
+Training time is 3271.664425
+Loading and calculating validation batches...
+Test time is 354.239625
+Epoch [48/50], Lossmean:6.91535e-04, Validation lossmean:6.58109e-04
+exp_L: [0.215 0.205 0.205 0.162 0.213 0.232]
+exp_S: [0.9   0.998 0.992 0.801 0.674 0.768]
+saved at [epoch48/50]
+
+2018-10-17 10:53:16
+Loading and calculating training batches...
+Training time is 3263.017775
+Loading and calculating validation batches...
+Test time is 349.349480
+Epoch [49/50], Lossmean:6.70664e-04, Validation lossmean:6.59542e-04
+exp_L: [0.215 0.205 0.205 0.162 0.213 0.232]
+exp_S: [0.896 0.995 0.99  0.801 0.668 0.76 ]
+saved at [epoch49/50]
+
+2018-10-17 11:53:29
+Loading and calculating training batches...
+Training time is 3262.238395
+Loading and calculating validation batches...
+Test time is 374.693032
+Epoch [50/50], Lossmean:6.64524e-04, Validation lossmean:6.62810e-04
+exp_L: [0.215 0.205 0.205 0.162 0.214 0.233]
+exp_S: [0.891 0.992 0.989 0.8   0.663 0.752]
+saved at [epoch50/50]
+
+min Loss=6.5811e-04

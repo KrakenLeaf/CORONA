@@ -1,0 +1,20 @@
+Training Settings:
+	lr_list=[0.002]
+	ValBatchSize=40
+	shape=(32, 32, 40)
+	ValInstances=800
+	model_loaded=None
+	prefix=sim
+	BatchSize=40
+	num_epochs=50
+	frame=10
+	ALPHA=0.5
+	TrainInstances=2400
+	ProjectName=Unfolded_8lay_sim50epoch
+	data_dir=../../../Data/Sim/
+	
+params_net={'layers':8,
+			  'CalInGPU':True,
+			  'coef_S':1.8,
+			  'kernel':[(5, 1), (5, 1), (5, 1), (3, 1), (3, 1), (3, 1), (3, 1), (3, 1)],
+			  'coef_L':0.4}

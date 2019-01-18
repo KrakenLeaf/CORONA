@@ -1,0 +1,91 @@
+Project Name: Res3dC_sim10
+
+Loading phase...
+----------------
+Finished loading.
+
+Configuring network...
+Training the model over 2400 samples, with learning rate 0.002000
+
+
+2018-11-15 14:15:03
+Loading and calculating training batches...
+Training time is 192.956264
+Loading and calculating validation batches...
+Test time is 3.174092
+Epoch [1/10], Lossmean: 1.83705e-02, Validation lossmean: 5.41167e-03
+saved at [epoch1/10]
+
+2018-11-15 14:18:20
+Loading and calculating training batches...
+Training time is 196.158804
+Loading and calculating validation batches...
+Test time is 3.024979
+Epoch [2/10], Lossmean: 4.65483e-03, Validation lossmean: 4.37118e-03
+saved at [epoch2/10]
+
+2018-11-15 14:21:39
+Loading and calculating training batches...
+Training time is 197.779436
+Loading and calculating validation batches...
+Test time is 3.010928
+Epoch [3/10], Lossmean: 3.81736e-03, Validation lossmean: 3.66318e-03
+saved at [epoch3/10]
+
+2018-11-15 14:25:00
+Loading and calculating training batches...
+Training time is 197.760172
+Loading and calculating validation batches...
+Test time is 2.995125
+Epoch [4/10], Lossmean: 3.22947e-03, Validation lossmean: 3.13700e-03
+saved at [epoch4/10]
+
+2018-11-15 14:28:20
+Loading and calculating training batches...
+Training time is 197.758665
+Loading and calculating validation batches...
+Test time is 2.969757
+Epoch [5/10], Lossmean: 2.83841e-03, Validation lossmean: 2.92492e-03
+saved at [epoch5/10]
+
+2018-11-15 14:31:41
+Loading and calculating training batches...
+Training time is 197.748949
+Loading and calculating validation batches...
+Test time is 3.001787
+Epoch [6/10], Lossmean: 2.55924e-03, Validation lossmean: 2.59910e-03
+saved at [epoch6/10]
+
+2018-11-15 14:35:02
+Loading and calculating training batches...
+Training time is 197.825565
+Loading and calculating validation batches...
+Test time is 2.986750
+Epoch [7/10], Lossmean: 2.32889e-03, Validation lossmean: 2.37849e-03
+saved at [epoch7/10]
+
+2018-11-15 14:38:23
+Loading and calculating training batches...
+Training time is 197.822755
+Loading and calculating validation batches...
+Test time is 2.983081
+Epoch [8/10], Lossmean: 2.20390e-03, Validation lossmean: 2.22096e-03
+saved at [epoch8/10]
+
+2018-11-15 14:41:43
+Loading and calculating training batches...
+Training time is 197.733378
+Loading and calculating validation batches...
+Test time is 2.972129
+Epoch [9/10], Lossmean: 2.04291e-03, Validation lossmean: 2.09178e-03
+saved at [epoch9/10]
+
+2018-11-15 14:45:04
+Loading and calculating training batches...
+Training time is 197.754056
+Loading and calculating validation batches...
+Test time is 2.982053
+Epoch [10/10], Lossmean: 1.94327e-03, Validation lossmean: 1.96963e-03
+saved at [epoch10/10]
+
+min Loss=1.970e-03

@@ -1,0 +1,15 @@
+Training Settings:
+	TrainInstances=2400
+	num_epochs=10
+	frame=10
+	ValInstances=800
+	BatchSize=40
+	gpu=True
+	prefix=sim
+	ProjectName=Res3dC_sim10
+	lr_list=[0.002]
+	data_dir=../../../Data/Sim/
+	shape=(32, 32, 40)
+	mfile=None
+	ValBatchSize=40
+	

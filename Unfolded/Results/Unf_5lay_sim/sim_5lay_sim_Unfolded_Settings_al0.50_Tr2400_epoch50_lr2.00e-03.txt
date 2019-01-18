@@ -1,0 +1,20 @@
+Training Settings:
+	data_dir=../../../Data/Sim/
+	ALPHA=0.5
+	TrainInstances=2400
+	model_loaded=None
+	ValInstances=800
+	ProjectName=sim_5lay
+	frame=10
+	num_epochs=50
+	lr_list=[0.002]
+	prefix=sim
+	BatchSize=40
+	shape=(32, 32, 40)
+	ValBatchSize=40
+	
+params_net={'kernel':[(5, 1), (5, 1), (5, 1), (3, 1), (3, 1)],
+			  'CalInGPU':True,
+			  'coef_L':0.4,
+			  'coef_S':1.8,
+			  'layers':5}

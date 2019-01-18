@@ -1,0 +1,15 @@
+Training Settings:
+	BatchSize=40
+	gpu=True
+	lr_list=[0.002]
+	ValBatchSize=40
+	ValInstances=800
+	data_dir=../../../Data/Invivo/
+	num_epochs=20
+	frame=10
+	mfile=Results/Res3dC_sim_train.pkl
+	TrainInstances=2400
+	shape=(32, 32, 40)
+	ProjectName=Res3dC_sim_train
+	prefix=invivo
+	

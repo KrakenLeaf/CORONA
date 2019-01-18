@@ -1,0 +1,14 @@
+Project Name: Unfolded_8lay_sim50epoch
+params_net=
+{'coef_L': 0.4, 'layers': 8, 'CalInGPU': True, 'kernel': [(5, 1), (5, 1), (5, 1), (3, 1), (3, 1), (3, 1), (3, 1), (3, 1)], 'coef_S': 1.8}
+
+Loading phase...
+----------------
+Finished loading.
+
+Configuring network...
+Training the model over 2400 samples, with learning rate 0.002000
+
+
+2018-09-16 11:04:08
+Loading and calculating training batches...
